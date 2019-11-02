@@ -273,13 +273,13 @@ div.wrapper-content aside.profile .followers ul li {
   margin: 0 5px 5px 0;
 }
 
-div.wrapper-content aside.profile .image ul {
+div.wrapper-content aside.profile .images ul {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
 }
 
-div.wrapper-content aside.profile .imgage ul li {
+div.wrapper-content aside.profile .images ul li {
   width: 80px;
   height: 80px;
   background: #D0D5D9;
